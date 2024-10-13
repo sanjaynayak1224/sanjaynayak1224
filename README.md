@@ -1,13 +1,17 @@
 👋 Hi there! I'm Sanjay S Nayak
 
-🎓 Currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027
+🎓 A Full Stack Web Developer(MERN) and currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027
 
 💻 Skilled in:
-- 💻 HTML5 & 🎨 CSS3
+- 💻 HTML5 🎨 CSS3,Bootstrap and Tailwind CSS
 - 🟨 JavaScript
+- 🟨React.js
+- 🟨 Node.js
+- 🟨 Express.js
+- 🟨 MongoDB 
 - ⚙ C/C++
 - 🐍 Python
-- 🌐 Full-stack development (learning)
+- 🌐 Full-stack development
 - 📊 Data Structures and Algorithms (in C++)
 - 🅿️ Poster Design
 
