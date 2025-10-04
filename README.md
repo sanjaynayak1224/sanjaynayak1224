@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay S Nayak</h1>
-<h3 align="center">A passionate frontend developer 🎓 A Full Stack Web Developer(MERN) and currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027from India</h3>
+<h3 align="center">A passionate frontend developer 🎓 A Full Stack Web Developer(MERN) and currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027 from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaynayak1224&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynayak1224" /> </p>
 
