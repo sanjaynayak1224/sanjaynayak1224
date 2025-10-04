@@ -19,8 +19,6 @@ A passionate frontend developer 🎓 A Full Stack Web Developer(MERN) and curren
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjaynayak1224&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjaynayak1224&icon=1&color=0)](https://visitcount.itsvg.in)
