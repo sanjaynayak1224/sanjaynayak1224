@@ -1,5 +1,6 @@
 # 💫 About Me:
-A passionate frontend developer 🎓 A Full Stack Web Developer(MERN) and currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027 from India
+🎓 A Full Stack Web Developer(MERN) and currently a student in the Information Science and Engineering (ISE) branch at BMS Institute of Technology and Management, graduating in 2027 from India
+🎓Learning Artificial Intelligence and Machine Learning(AI&ML)
 
 
 ## 🌐 Socials:
