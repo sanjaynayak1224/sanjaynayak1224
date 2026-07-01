@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-s-nayak/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/Sanjay_S_Nayak/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/profile/sanbiomedsanjay"><img src="https://img.shields.io/badge/HackerRank-%2316C784.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://www.geeksforgeeks.org/profile/sanbiomeekee"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
+  <a href="https://www.hackerrank.com/profile/sanbiomedsanjay"><img src="https://img.shields.io/badge/HackerRank-%2316C784.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="mailto:sanbiomedsanjay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -176,8 +176,8 @@ I'm always open to collaborating on interesting projects, discussing ML ideas, o
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-s-nayak/">LinkedIn</a> · 
   <a href="https://leetcode.com/Sanjay_S_Nayak/">LeetCode</a> · 
-  <a href="https://www.hackerrank.com/profile/sanbiomedsanjay">HackerRank</a> · 
-  <a href="https://www.geeksforgeeks.org/profile/sanbiomeekee">GeeksForGeeks</a> · 
+  <a href="https://www.geeksforgeeks.org/profile/sanbiomeekee">GeeksForGeeks</a> ·
+  <a href="https://www.hackerrank.com/profile/sanbiomedsanjay">HackerRank</a> ·  
   <a href="mailto:sanbiomedsanjay@gmail.com">sanbiomedsanjay@gmail.com</a>
 </p>
 
