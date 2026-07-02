@@ -113,14 +113,6 @@ Fun Fact: I build things from scratch to understand how they actually work
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjaynayak1224&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies">
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 #### 🤖 Machine Learning & Deep Learning
