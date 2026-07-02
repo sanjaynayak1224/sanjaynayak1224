@@ -153,14 +153,6 @@ Fun Fact: I build things from scratch to understand how they actually work
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjaynayak1224/sanjaynayak1224/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects, discussing ML ideas, or exploring new opportunities. Feel free to reach out!
