@@ -1,11 +1,10 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjay%20S%20Nayak&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20DSA%20Practitioner&descAlignY=55&descSize=18&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sanjay%20S%20Nayak&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20&animation=twinkling)
 
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+(MERN);Machine+Learning+%26+Deep+Learning+Engineer;DSA+Practitioner+in+C%2B%2B;AI+%26+ML+Enthusiast;Dedicated+to+Learning+%26+Building" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -24,13 +23,13 @@
 Name: Sanjay S Nayak
 Location: Bangalore, India
 Education: B.E. in Information Science & Engineering @ BMSIT&M (Graduating 2027)
-Focus Areas: Full Stack Development | Machine Learning | Deep Learning | DSA
+Focus Areas: MERN Stack | AI & Machine Learning | Deep Learning | Intelligent Web Applications
 Fun Fact: I build things from scratch to understand how they actually work
 ```
 
-- 🔭 Currently building **ML/DL projects** across supervised, unsupervised, and deep learning paradigms
-- 🌐 Developing **full-stack web apps** with the MERN stack + real-time systems with WebRTC & Socket.io
-- 📊 Practicing **DSA in C++** — solving problems across Easy, Medium, and Hard categories
+- 🔭 Building intelligent applications across **Machine Learning, Deep Learning, and real-world AI systems**
+- 🌐 Developing scalable **MERN Stack** applications and real-time systems with WebRTC & Socket.io
+- 🧠 Passionate about building scalable AI solutions and modern MERN applications
 
 ---
 
@@ -55,7 +54,10 @@ Fun Fact: I build things from scratch to understand how they actually work
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23135F9B.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233C5488.svg?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300C389.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23154F5B.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 **Frontend**
 
@@ -120,49 +122,31 @@ Fun Fact: I build things from scratch to understand how they actually work
 | Project | Type | Tech | Key Result |
 | :--- | :---: | :--- | :--- |
 | [**VisionNet** — CNN Image Classification](https://github.com/sanjaynayak1224/Convolutional_Neural_Networks-Image_Classification) | Deep Learning | PyTorch, Torchvision | 73.89% accuracy on CIFAR-10 |
-| [**SentimentRNN** — IMDB Review Analysis](https://github.com/sanjaynayak1224/Recurrent_Neural_Network-IMDB_Movie_Reviews_Sentiment_Analysis) | NLP / Deep Learning | PyTorch, NLTK, TF-IDF | 86.86% accuracy on 50K reviews |
 | [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediciton) | Deep Learning | PyTorch, Scikit-Learn | 94.44% accuracy across 7 varieties |
 | [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Ouput_Prediction) | Regression / DL | PyTorch, Scikit-Learn | R² = 93.55%, RMSE = 4.29 MW |
 | [**CreditWise** — Loan Approval Prediction](https://github.com/sanjaynayak1224/CreditWise_Loan_System-A_Loan_Approval_Prediction_System) | Supervised ML | Scikit-Learn, Pandas | 87.5% accuracy, 79% precision |
 | [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised ML | Scikit-Learn, K-Means, PCA | 4 actionable customer personas |
 
-#### 🌐 Web Development
+### 🌱 Currently Exploring
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**Apna Video Call** — Video Conferencing Platform](https://github.com/sanjaynayak1224/Video_Conferencing_Platform) | Real-time P2P video conferencing with WebRTC mesh architecture, screen sharing, in-meet chat, Bluetooth audio routing, and glassmorphic UI | React, Node.js, Express, MongoDB, Socket.io, WebRTC, Vite, JWT |
+- 🧠 Modern Neural Network Architectures
+- 🧩 Reinforcement Learning
+- 💬 Large Language Models (LLMs)
+- 📝 Natural Language Processing (NLP)
+- 🧠 Generative AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎨 GANs
+- 🤖 Agentic AI
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaynayak1224&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaynayak1224&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="180">
-
-</div>
-
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaynayak1224&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaynayak1224&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
-</p>
-
----
-
-### 🤝 Let's Connect
-
-I'm always open to collaborating on interesting projects, discussing ML ideas, or exploring new opportunities. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-s-nayak/">LinkedIn</a> · 
-  <a href="https://leetcode.com/Sanjay_S_Nayak/">LeetCode</a> · 
-  <a href="https://www.geeksforgeeks.org/profile/sanbiomeekee">GeeksForGeeks</a> ·
-  <a href="https://www.hackerrank.com/profile/sanbiomedsanjay">HackerRank</a> ·  
-  <a href="mailto:sanbiomedsanjay@gmail.com">sanbiomedsanjay@gmail.com</a>
 </p>
 
 ---
