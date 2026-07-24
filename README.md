@@ -23,7 +23,7 @@
 Name: Sanjay S Nayak
 Location: Bangalore, India
 Education: B.E. in Information Science & Engineering @ BMSIT&M (Graduating 2027)
-Focus Areas: MERN Stack | AI & Machine Learning | Deep Learning | Intelligent Web Applications
+Focus Areas: Full-Stack Development (MERN) | Machine Learning | Deep Learning | Natural Language Processing | Intelligent Web Applications
 Fun Fact: I build things from scratch to understand how they actually work
 ```
 
@@ -130,7 +130,7 @@ Fun Fact: I build things from scratch to understand how they actually work
 
 ### 🌱 Currently Exploring
 
-- 🧠 Modern Neural Network Architectures
+- 🤖 Large Language Models (LLMs)
 - 🤖 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
 - 🧠 Reinforcement Learning
