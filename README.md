@@ -119,13 +119,14 @@ Fun Fact: I build things from scratch to understand how they actually work
 
 #### 🤖 Machine Learning & Deep Learning
 
-| Project | Type | Tech | Key Result |
+| Project | Domain | Tech Stack | Highlights |
 | :--- | :---: | :--- | :--- |
-| [**VisionNet** — CNN Image Classification](https://github.com/sanjaynayak1224/Convolutional_Neural_Networks-Image_Classification) | Deep Learning | PyTorch, Torchvision | 73.89% accuracy on CIFAR-10 |
-| [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediciton) | Deep Learning | PyTorch, Scikit-Learn | 94.44% accuracy across 7 varieties |
-| [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Ouput_Prediction) | Regression / DL | PyTorch, Scikit-Learn | R² = 93.55%, RMSE = 4.29 MW |
-| [**CreditWise** — Loan Approval Prediction](https://github.com/sanjaynayak1224/CreditWise_Loan_System-A_Loan_Approval_Prediction_System) | Supervised ML | Scikit-Learn, Pandas | 87.5% accuracy, 79% precision |
-| [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised ML | Scikit-Learn, K-Means, PCA | 4 actionable customer personas |
+| [**CreditWise** — Loan Approval Prediction](https://github.com/sanjaynayak1224/CreditWise_Loan_System-A_Loan_Approval_Prediction_System) | Supervised ML | Scikit-Learn, Pandas | 87.5% accuracy with 79% precision for loan approval prediction |
+| [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised ML | Scikit-Learn, K-Means, PCA | Identified 4 customer personas for targeted marketing |
+| [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Output_Prediction) | Deep Learning | PyTorch, Scikit-Learn | Feedforward neural network achieving R² = 93.55% and RMSE = 4.29 MW |
+| [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediction) | Deep Learning | PyTorch, Scikit-Learn | Classified 7 date fruit varieties with 94.44% accuracy |
+| [**VisionNet** — CNN Image Classification](https://github.com/sanjaynayak1224/Convolutional_Neural_Networks-Image_Classification) | Computer Vision | PyTorch, Torchvision | CNN trained on CIFAR-10 achieving 73.89% test accuracy |
+| [**SentimentRNN** — IMDB Movie Review Sentiment Analysis](https://github.com/sanjaynayak1224/Recurrent_Neural_Network-IMDB_Movie_Reviews_Sentiment_Analysis) | Natural Language Processing | PyTorch, NLTK, Scikit-Learn | End-to-end RNN achieving 86.96% accuracy on 50,000 IMDB movie reviews |
 
 ### 🌱 Currently Exploring
 
