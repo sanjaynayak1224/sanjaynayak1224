@@ -27,9 +27,9 @@ Focus Areas: MERN Stack | AI & Machine Learning | Deep Learning | Intelligent We
 Fun Fact: I build things from scratch to understand how they actually work
 ```
 
-- 🔭 Building intelligent applications across **Machine Learning, Deep Learning, and real-world AI systems**
-- 🌐 Developing scalable **MERN Stack** applications and real-time systems with WebRTC & Socket.io
-- 🧠 Passionate about building scalable AI solutions and modern MERN applications
+- 🔭 Building intelligent applications using Machine Learning, Deep Learning, and modern AI technologies.
+- 🌐 Developing scalable MERN Stack applications with real-time communication using WebRTC and Socket.io.
+- 📚 Continuously learning by building projects from scratch and understanding the underlying algorithms.
 
 ---
 
@@ -131,13 +131,12 @@ Fun Fact: I build things from scratch to understand how they actually work
 ### 🌱 Currently Exploring
 
 - 🧠 Modern Neural Network Architectures
-- 🧩 Reinforcement Learning
-- 💬 Large Language Models (LLMs)
-- 📝 Natural Language Processing (NLP)
-- 🧠 Generative AI
+- 🤖 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
-- 🎨 GANs
-- 🤖 Agentic AI
+- 🧠 Reinforcement Learning
+- 🤖 Agentic AI Systems
+- 🎨 Generative AI & Diffusion Models
+- 🎭 Generative Adversarial Networks (GANs)
 
 ---
 
