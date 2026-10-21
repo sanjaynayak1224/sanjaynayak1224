@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjay%20S%20Nayak&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Web%20(MERN)%20%7C%20Deep%20Learning%20%26%20Agentic%20AI&descAlignY=55&descSize=18" alt="Header" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sanjay%20S%20Nayak&fontSize=46&fontAlignY=36&animation=twinkling"
+    alt="Sanjay S Nayak Header"
+    width="100%"
+  />
 </p>
 
 <p align="center">
